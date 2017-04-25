@@ -1,4 +1,7 @@
-# api documentation for  [grunt-closure-compiler (v0.0.21)](https://github.com/gmarty/grunt-closure-compiler)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-closure-compiler.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-closure-compiler) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-closure-compiler.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-closure-compiler)
+# npmdoc-grunt-closure-compiler
+
+#### basic api documentation for  [grunt-closure-compiler (v0.0.21)](https://github.com/gmarty/grunt-closure-compiler)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-closure-compiler.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-closure-compiler) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-closure-compiler.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-closure-compiler)
+
 #### A Grunt task for Closure Compiler.
 
 [![NPM](https://nodei.co/npm/grunt-closure-compiler.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-closure-compiler)
